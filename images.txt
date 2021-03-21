@@ -1,0 +1,4 @@
+python:3.8-slim
+python:3.8-slim
+python:3.8-slim
+neo4j
